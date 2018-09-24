@@ -1,2 +1,1 @@
-# myQuest
-SQL-Trainer
+Hier war ein Hacker
