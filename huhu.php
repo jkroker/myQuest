@@ -7,3 +7,4 @@ Kilian Fabri
 Niklas König
 Oliver Schwartpaul
 Christopher Boscher
+Marcel Johnen
